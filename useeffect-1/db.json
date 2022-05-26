@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "jitender"
+    },
+    {
+      "id": 2,
+      "title": "deepak"
+    },
+    {
+      "id": 3,
+      "title": "ankit"
+    },
+    {
+      "id": 4,
+      "title": "vikash"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "REACT"
+    },
+    {
+      "id": 2,
+      "title": "VUE"
+    },
+    {
+      "id": 3,
+      "title": "NODE"
+    },
+    {
+      "title": "EXPRESS",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 5
+    }
+  ]
+}
